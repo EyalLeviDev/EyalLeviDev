@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @EyalLeviDev
 - 👀 I’m interested in Foss, Linux and frontend web develpment
-- 🔥 I'm currently working with react
-- 🌱 I’m currently learning NEXT.js and go
+- 🔥 I'm currently working with Next.js
+- CSS is a passion of mine ;)
+- 🌱 I’m currently interseted and trying to expand my knowledge of the go programming language
 
 
 <!---
